@@ -24,10 +24,10 @@ CI:
 
 # Eszközök bemutatása
 
-1. Csatlakozás a Github classroom-ba
+1. Csatlakozás a Github classroom-ba: https://classroom.github.com/a/ujEDmT2o
 2. Github kódelemzés repository bemutatása: Java és spock
 3. Github actions ci workflow bemutatása
-4. Sonarcloud regisztráció
+4. Sonarcloud regisztráció: https://sonarcloud.io/
 
 # Kódhibák megtalálása statikus kódelemzés segítségével
 
