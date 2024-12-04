@@ -13,7 +13,7 @@ class Calculator {
     return a * b;
   }
 
-  double divide(int a, int b) {
+  double divide(int a, double b) {
     if (b == 0) {
       throw new IllegalArgumentException("Division by zero");
     }
